@@ -52,17 +52,17 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Welcome To The Website NAOKIBOT"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Adrian, a Next.js Developer based in Croatia.
+          Get NaokiBot By Clicking The Button Below
           </p>
 
           <a href="#about">
             <MagicButton
-              title="Show my work"
+              title="Invite Now"
               icon={<FaLocationArrow />}
               position="right"
             />

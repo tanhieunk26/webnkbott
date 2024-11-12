@@ -7,8 +7,8 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Adrian's Portfolio",
-  description: "Modern & Minimal JS Mastery Portfolio",
+  title: "NaokiBot",
+  description: "Experience the Powerful NaokiBot for Free on Discord Today. With Many Features, Designed to Suit Everyone",
 };
 
 export default function RootLayout({
